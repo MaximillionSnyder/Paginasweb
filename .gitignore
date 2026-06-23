@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+
+# Python http server
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Env
+.env
+.env.local
